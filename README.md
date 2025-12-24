@@ -52,6 +52,7 @@ The following R packages are required:
 - `progress`
 - `tidyverse`
 - `rstudioapi`
+- `xtable`
 
 The code was developed and tested using a recent version of R (≥ 4.2.x).
 
