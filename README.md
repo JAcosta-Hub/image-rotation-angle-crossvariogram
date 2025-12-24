@@ -53,7 +53,7 @@ The following R packages are required:
 - `tidyverse`
 - `rstudioapi`
 
-The code was developed and tested using a recent version of R (≥ 4.0).
+The code was developed and tested using a recent version of R (≥ 4.2.x).
 
 ---
 
