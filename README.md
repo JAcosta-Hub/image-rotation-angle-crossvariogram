@@ -37,11 +37,14 @@ The main scripts and functions are organized as follows:
   Application of the proposed methodology to real image data.
 
 ---
-
 ## Dependencies
 
-All code is written in **R**. The following R packages are required:
+All code is written in **R**.
 
+**Software requirements:**
+- R version >= 3.6.0
+
+The following R packages are required:
 - `fields`
 - `MASS`
 - `imager`
